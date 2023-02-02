@@ -1,2 +1,2 @@
 ## Pharmacie Proche
-Drug ordering and delivery platform
+Medications ordering and delivery platform
